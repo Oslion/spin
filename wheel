@@ -417,3 +417,8 @@ Table Rule: The refusal penatly is now just 1
 Table Rule: All drink prompts are now 1 less but include "remove 1 layer"
 Table Rule: Any player may replace a "remove 1 layer" prompt with drinks
 Table Rule: You may "drink and spin again" once per turn to avoid a prompt
+Take 1 and remove 1, you may pick another player to do it as well but now you do double.
+Take 1, you may choose another player, they remove 1 but give you a punishment.
+Remove 1, you may choose another player, they take 2 but give you a punishment.
+The players on your right and left remove 1, you take 2.
+The player across from you removes 1, you take 1 while they do it.
